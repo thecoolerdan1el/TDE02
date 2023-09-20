@@ -35,7 +35,7 @@ while True:
     funcao2()
     print("Entrando na função 3...")
     funcao3()
-    escolha = int(input("Deseja parar? (1) SIM (2) NÃO"))
+    escolha = int(input("Deseja parar? (1) SIM (2) NÃO\n"))
     if escolha == 1:
         print("Obrigado por usar nossos serviços")
         break
